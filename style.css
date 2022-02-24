@@ -1,0 +1,51 @@
+body{
+    background: url('https://static.vecteezy.com/system/resources/previews/003/588/032/original/pastel-ombre-background-in-pink-and-purple-vector.jpg');
+    background-size: cover;
+}
+h1{
+    font-style: italic;
+    color: rgb(6, 29, 44);
+    text-align: center;
+}
+p{
+    font-style: italic;
+    font-size: larger;
+    color: rgb(6, 29, 44);
+    text-align: center;
+}
+#div1{
+    
+    width: 250px;
+    height: 170px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+h3{
+    color: rgb(6, 29, 44);
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+#div2{
+    padding-top: 30px;
+    margin-right: 300px;
+    margin-left: 300px;
+    padding-bottom: 30px;
+    border-style: groove;
+    background-color: rgba(255, 38, 244, 0.267);
+    border-radius: 40px;
+}
+button {
+    border-radius: 50px;
+    margin-left: 10%;
+    background-color: azure;
+}
+h2{
+    color: rgb(6, 29, 44);
+    text-align: center;
+}
+#blank{
+    padding-bottom: 50px;
+}
